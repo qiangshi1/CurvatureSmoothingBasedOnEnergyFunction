@@ -16,6 +16,8 @@ run('curvature_smoothing.m')
 ![avatar](square.gif)
 
 
-### If you can use this method on your work or study,or you are inspired by the method,please cite my paper.
+### If you can use this method on your work or study,or you are inspired by the method,please cite my paper by:
 
+师强,杨明. 基于能量函数的智能车辆路径曲率平滑方法研究[J]. 智能科学与技术学报, 2020, 2(2): 161-168.
 
+SHI Q, YANG M. Research on path curvature smoothing method based on energy function for intelligent vehicles[J]. Chinese Journal of Intelligent Science and Technology, 2020, 2(2): 161-168.
